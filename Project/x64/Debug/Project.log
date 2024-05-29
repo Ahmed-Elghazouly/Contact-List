@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Add_Contact.cpp
+  BST.cpp
+  ContactList.cpp
+  ContactListWrapper.cpp
+  Dialpad.cpp
+  KeyPad.cpp
+  Recents.cpp
+  User.cpp
+  UserWrapper.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+C:\Users\medog\source\repos\Project\Project\ContactList.cpp(27,1): warning C4715: 'ContactList::empty': not all control paths return a value
+C:\Users\medog\source\repos\Project\Project\BST.cpp(71,1): warning C4715: 'BST::search': not all control paths return a value
+  Add_Contact.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project.vcxproj -> C:\Users\medog\source\repos\Project\x64\Debug\Contact List.exe

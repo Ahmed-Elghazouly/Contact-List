@@ -1,0 +1,6 @@
+C:\Users\medog\source\repos\Project\Project\x64\Debug\Project.vcxproj.AssemblyReference.cache
+C:\Users\medog\source\repos\Project\Project\x64\Debug\Project.Add_Contact.resources
+C:\Users\medog\source\repos\Project\Project\x64\Debug\Project.Dialpad.resources
+C:\Users\medog\source\repos\Project\Project\x64\Debug\Project.KeyPad.resources
+C:\Users\medog\source\repos\Project\Project\x64\Debug\Project.Recents.resources
+C:\Users\medog\source\repos\Project\Project\x64\Debug\Project.vcxproj.GenerateResource.cache
